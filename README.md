@@ -6,7 +6,7 @@ Bu Python programı, kullanıcıdan **vücut kitle indeksi (BMI)**, **yaş** ve 
 ## Kurulum
 
 1. Projeyi bilgisayarınıza indirin:
-git clone https://github.com/kullaniciAdi/vucut-yag-orani-hesaplayici.git
+git clone https://github.com/Scrutta/YagOran-Hesaplama
 
 2. Programı başlatın:
 python yag_orani_hesapla.py
